@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-🎓 Computer Science @ CUNY BMCC<br>🔬 Researching and developing on MR navigation tool for blind users.<br>🌱 I'm currently learning XR 🥽 and full-stack development 💻.<br>⚡️ Fun fact I was a competitive classical singer 🎵 and figure skater ⛸️.
+🎓 Computer Science @ CUNY <br>🔬 Researching and developing on MR navigation tool for blind users.<br>🌱 I'm currently learning XR 🥽 and full-stack development 💻.<br>⚡️ Fun fact I was a competitive classical singer 🎵 and figure skater ⛸️.
 
 
 ## Socials:
